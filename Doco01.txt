@@ -1,0 +1,3 @@
+this is dumy documentation for Maglot - to test Git
+
+this is a new line
